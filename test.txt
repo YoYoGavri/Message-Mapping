@@ -1,0 +1,6 @@
+The student is passing
+The student is failing
+The student needs help
+Advise the student
+Class is cancelled
+Class is starting late
